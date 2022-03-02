@@ -9,6 +9,7 @@ int main(int argc, char** argv) {
 	int res = op.Multilicacion(5,4);
 	cout<<"La multiplicacion es: "<<res;
 	system("pause");
+	
 	cout<<"Programa terminado!";
 	return 0;
 }
